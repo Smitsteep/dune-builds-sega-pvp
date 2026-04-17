@@ -1,0 +1,13 @@
+{
+  "_comment": [
+    "Этот файл обновляется вручную при выходе новой версии апдейтера.",
+    "version       — версия нового exe (0.2.0, 0.3.0 ...)",
+    "file_name     — имя exe файла (как он назван в релизе)",
+    "download_url  — прямая ссылка на exe из GitHub Releases",
+    "modified_time — необязательно, для отображения даты"
+  ],
+  "version": "0.1.0",
+  "file_name": "DuneSegaUpdater.exe",
+  "download_url": "",
+  "modified_time": ""
+}
