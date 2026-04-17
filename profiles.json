@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "profiles": {
+    "max": {
+      "title": "Max",
+      "token_hash": "b9a70161d958f80eb0208ce9042ce12cda13774b2cbbcca82e22710c0bdc06ab",
+      "github_folder": "authors/max"
+    },
+    "razor": {
+      "title": "Razor",
+      "token_hash": "a42b94e1ef48870a3ec092dc859910e40b18fb397c0b65927ff6c74ebd678ef4",
+      "github_folder": "authors/razor"
+    },
+    "yagelon": {
+      "title": "Yagelon",
+      "token_hash": "ecfb4242904d9c8d3cc077543d01c2abaa96c2d456c4d46aeca5cdb84f8a0d03",
+      "github_folder": "authors/yagelon"
+    },
+    "kasais": {
+      "title": "Kasais",
+      "token_hash": "7f903a6b534f484cb21f6ce229881662da2c082a539aed7af1bfd667cbcecd94",
+      "github_folder": "authors/kasais"
+    }
+  }
+}
