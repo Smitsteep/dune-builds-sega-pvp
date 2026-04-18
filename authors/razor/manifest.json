@@ -1,8 +1,8 @@
 {
-  "version": "2026.04.18",
+  "version": "2026.04.18.1456",
   "author": "Razor",
-  "archive_name": "razor-2026.04.18.zip",
-  "download_url": "https://github.com/Smitsteep/dune-builds-sega-pvp/releases/download/razor-2026.04.18/razor-2026.04.18.zip",
+  "archive_name": "razor-2026.04.18.1456.zip",
+  "download_url": "https://github.com/Smitsteep/dune-builds-sega-pvp/releases/download/razor-2026.04.18.1456/razor-2026.04.18.1456.zip",
   "launchers": {
     "P1": "mednaffe(RUS).exe",
     "P2": "mednaffe(RUS).exe"
