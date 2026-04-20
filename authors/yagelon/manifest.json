@@ -1,11 +1,11 @@
 {
-  "version": "2026.04.17",
+  "archive_name": "yagelon-2026.04.20.1736.zip",
   "author": "Yagelon",
-  "archive_name": "yagelon-2026.04.17.zip",
-  "download_url": "https://github.com/Smitsteep/dune-builds-sega-pvp/releases/download/yagelon-2026.04.17/yagelon-2026.04.17.zip",
+  "download_url": "https:\/\/github.com\/Smitsteep\/dune-builds-sega-pvp\/releases\/download\/yagelon-2026.04.20.1736\/yagelon-2026.04.20.1736.zip",
+  "files": [ ],
   "launchers": {
     "P1": "mednaffe(RUS).exe",
     "P2": "mednaffe(RUS).exe"
   },
-  "files": []
+  "version": "2026.04.20.1736"
 }
