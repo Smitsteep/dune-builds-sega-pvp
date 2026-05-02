@@ -1,11 +1,11 @@
 {
-  "archive_name": "kasais-2026.05.02.1510.zip",
+  "archive_name": "kasais-2026.05.02.1516.zip",
   "author": "Kasais",
-  "download_url": "https:\/\/github.com\/Smitsteep\/dune-builds-sega-pvp\/releases\/download\/kasais-2026.05.02.1510\/kasais-2026.05.02.1510.zip",
+  "download_url": "https:\/\/github.com\/Smitsteep\/dune-builds-sega-pvp\/releases\/download\/kasais-2026.05.02.1516\/kasais-2026.05.02.1516.zip",
   "files": [ ],
   "launchers": {
     "P1": "mednaffe(RUS).exe",
     "P2": "mednaffe(RUS).exe"
   },
-  "version": "2026.05.02.1510"
+  "version": "2026.05.02.1516"
 }
