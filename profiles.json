@@ -20,6 +20,11 @@
       "title": "Kasais",
       "token_hash": "7f903a6b534f484cb21f6ce229881662da2c082a539aed7af1bfd667cbcecd94",
       "github_folder": "authors/kasais"
+    },
+    "svarchick": {
+      "title": "Svar",
+      "token_hash": "735f0d52bd71210750bb1c47473f32fde7a71971dda94a7b654677c93ff9ccd2",
+      "github_folder": "authors/svarchick"
     }
   }
 }
