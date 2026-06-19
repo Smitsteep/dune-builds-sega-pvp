@@ -1,0 +1,46 @@
+{
+  "authors": [
+    {
+      "id": "max",
+      "title": "Max",
+      "manifest_url": "https://cdn.jsdelivr.net/gh/Smitsteep/dune-builds-sega-pvp@main/authors/max/manifest.json",
+      "author_link": ""
+    },
+    {
+      "id": "razor",
+      "title": "Razor",
+      "manifest_url": "https://cdn.jsdelivr.net/gh/Smitsteep/dune-builds-sega-pvp@main/authors/razor/manifest.json",
+      "author_link": ""
+    },
+    {
+      "id": "yagelon",
+      "title": "Yagelon",
+      "manifest_url": "https://cdn.jsdelivr.net/gh/Smitsteep/dune-builds-sega-pvp@main/authors/yagelon/manifest.json",
+      "author_link": ""
+    },
+    {
+      "id": "kasais",
+      "title": "Kasais",
+      "manifest_url": "https://cdn.jsdelivr.net/gh/Smitsteep/dune-builds-sega-pvp@main/authors/kasais/manifest.json",
+      "author_link": ""
+    },
+    {
+      "id": "slava",
+      "title": "Slava",
+      "manifest_url": "https://cdn.jsdelivr.net/gh/Smitsteep/dune-builds-sega-pvp@main/authors/slava/manifest.json",
+      "author_link": ""
+    },
+    {
+      "id": "mcq",
+      "title": "Mcq",
+      "manifest_url": "https://cdn.jsdelivr.net/gh/Smitsteep/dune-builds-sega-pvp@main/authors/mcq/manifest.json",
+      "author_link": ""
+    },
+    {
+      "id": "svarchick",
+      "title": "Svar",
+      "manifest_url": "https://cdn.jsdelivr.net/gh/Smitsteep/dune-builds-sega-pvp@main/authors/svarchick/manifest.json",
+      "author_link": ""
+    }
+  ]
+}
