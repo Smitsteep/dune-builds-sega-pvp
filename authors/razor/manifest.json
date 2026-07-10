@@ -1,11 +1,11 @@
 {
-  "archive_name": "razor-2026.07.09.1926.zip",
+  "archive_name": "razor-2026.07.10.1927.zip",
   "author": "Razor",
-  "download_url": "https:\/\/github.com\/Smitsteep\/dune-builds-sega-pvp\/releases\/download\/razor-2026.07.09.1926\/razor-2026.07.09.1926.zip",
+  "download_url": "https:\/\/github.com\/Smitsteep\/dune-builds-sega-pvp\/releases\/download\/razor-2026.07.10.1927\/razor-2026.07.10.1927.zip",
   "files": [ ],
   "launchers": {
     "P1": "mednaffe(RUS).exe",
     "P2": "mednaffe(RUS).exe"
   },
-  "version": "2026.07.09.1926"
+  "version": "2026.07.10.1927"
 }
