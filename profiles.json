@@ -25,6 +25,11 @@
       "title": "Svar",
       "token_hash": "735f0d52bd71210750bb1c47473f32fde7a71971dda94a7b654677c93ff9ccd2",
       "github_folder": "authors/svarchick"
+    },
+    "emperor": {
+      "title": "Emperor",
+      "token_hash": "4f23c68590529eeb702c4e01f09653370d167fe8a935681f2c0c6e0a7d9d95f9",
+      "github_folder": "authors/emperor"
     }
   }
 }
